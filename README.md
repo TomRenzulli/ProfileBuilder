@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME/ProfileBuilder?style=flat-square&color=00FF41" />
   <img src="https://img.shields.io/github/forks/YOUR_USERNAME/ProfileBuilder?style=flat-square&color=00BFFF" />
-  <img src="https://img.shields.io/github/license/YOUR_USERNAME/ProfileBuilder?style=flat-square" />
   <img src="https://img.shields.io/badge/templates-3-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/tools_listed-500%2B-orange?style=flat-square" />
 </p>
