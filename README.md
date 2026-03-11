@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+ProfileBuilder;Copy.+Paste.+Get+Noticed." alt="ProfileBuilder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+ProfileBuilder;Copy.+Paste.+Get+Hired." alt="ProfileBuilder" />
 </p>
 
 <p align="center">
@@ -11,12 +11,14 @@
   <a href="#-cybersecurity"><img src="https://img.shields.io/badge/🔴_Cybersecurity-FF0000?style=for-the-badge" /></a>
   <a href="#-information-technology"><img src="https://img.shields.io/badge/🖥️_IT_Infrastructure-0078D6?style=for-the-badge" /></a>
   <a href="#-devops--sre"><img src="https://img.shields.io/badge/⚙️_DevOps_/_SRE-7B42BC?style=for-the-badge" /></a>
+  <a href="#-the-job-hunting-playbook"><img src="https://img.shields.io/badge/🎯_Job_Playbook-00AA55?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/ProfileBuilder?style=flat-square&color=00FF41" />
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/ProfileBuilder?style=flat-square&color=00BFFF" />
+  <img src="https://img.shields.io/github/stars/TomRenzulli/ProfileBuilder?style=flat-square&color=00FF41" />
+  <img src="https://img.shields.io/github/forks/TomRenzulli/ProfileBuilder?style=flat-square&color=00BFFF" />
   <img src="https://img.shields.io/badge/templates-3-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/guides-1-00AA55?style=flat-square" />
   <img src="https://img.shields.io/badge/tools_listed-500%2B-orange?style=flat-square" />
 </p>
 
@@ -141,11 +143,32 @@ Pipelines, containers, infrastructure-as-everything, and keeping production aliv
 
 ---
 
+## 🎯 The Job Hunting Playbook
+
+**`Job_Hunting_Playbook.md`**
+
+The skills templates tell the world *what you know*. The playbook tells you *how to get hired*.
+
+| Section | What's Inside |
+|---------|--------------|
+| **Resume Engineering** | Format rules, STAR-Impact bullet formula, content strategy, what to leave off |
+| **ATS Deep Dive** | How Workday/Greenhouse/Lever actually parse resumes, keyword optimization, the mirror technique |
+| **Portfolio & Projects** | GitHub as a portfolio, project ideas that aren't tutorial clones, project checklist |
+| **Networking** | Where to network (ranked by ROI), warm intros, cold outreach scripts, event tips for introverts |
+| **LinkedIn Optimization** | Headline formulas, About section structure, activity strategy |
+| **The AI Factor** | Positioning yourself in an AI world, what to say when asked "do you use AI?" |
+| **Interview Recon** | OSINT your employer — company research, tech stack discovery, interviewer research |
+| **Interview Prep** | Technical scenarios by role, behavioral STAR stories, day-of checklist |
+| **Salary Negotiation** | Research sources, negotiation scripts, total comp strategy |
+| **30-60-90 Day Plan** | Week-by-week action items from foundation through acceleration |
+
+---
+
 ## 🚀 Quick Start
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/ProfileBuilder.git
+git clone https://github.com/TomRenzulli/ProfileBuilder.git
 
 # Pick your template
 cd ProfileBuilder
@@ -197,6 +220,7 @@ ProfileBuilder/
 ├── Cybersecurity_Skills_Master_Template.md     ← 🔴 Red + Blue + Purple
 ├── IT_Skills_Master_Template.md               ← 🖥️ Helpdesk → Architect
 ├── DevOps_SRE_Skills_Master_Template.md       ← ⚙️ Pipelines → Production
+├── Job_Hunting_Playbook.md                    ← 🎯 Resume, ATS, Interviews, Recon
 └── LICENSE
 ```
 
@@ -229,7 +253,7 @@ MIT — Do whatever you want with it. Fork it. Modify it. Print it out and tape 
 
 If this saved you time, mass that star button. It helps others find this repo.
 
-If this helped you land a job, get that promotion, or if this just helped in anyway, come back and tell us about it. That's the real metric.
+If this helped you land a job, come back and tell us about it. That's the real metric.
 
 ---
 
