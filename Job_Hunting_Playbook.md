@@ -634,7 +634,7 @@ Job searching is one of the most psychologically taxing things you can do. Ackno
 ### Days 1-30: Foundation
 
 **Week 1:**
-- [ ] Build your master resume (3-5 pages, every accomplishment)
+- [ ] Build your master resume (1-3 pages, every accomplishment)
 - [ ] Create a tailored resume for your primary target role
 - [ ] Run your resume through an ATS scanner and fix issues
 - [ ] Update LinkedIn profile (headline, about, experience, skills)
