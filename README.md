@@ -243,12 +243,6 @@ Got a tool, cert, or category we missed? **PRs are welcome.**
 
 ---
 
-## 📜 License
-
-MIT — Do whatever you want with it. Fork it. Modify it. Print it out and tape it to your monitor. We don't care, just build a sick profile.
-
----
-
 ## ⭐ Support
 
 If this saved you time, mass that star button. It helps others find this repo.
